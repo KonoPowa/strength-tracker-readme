@@ -3,4 +3,4 @@ Progressive overload is one of the core ideas in any strength sport. My app make
 
 ## images
 ![picture in app](/Screenshot_1670806592.png)
-<img src="/Screenshot_1670806592.png" width="600">
+<img src="/Screenshot_1670806592.png" width="400">
