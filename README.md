@@ -11,11 +11,13 @@ Overall, this app is designed to help users make progress in their strength trai
 
 ## images
 <!-- ![picture in app](/Screenshot_1670806592.png) -->
-<img src="/Screenshot_1670806592.png" width="400">
-<img src="/Screenshot_1670823326.png" width="400">
-<img src="/Screenshot_1670823336.png" width="400">
-<img src="/Screenshot_1670806646.png" width="400">
-<img src="/Screenshot_1670806659.png" width="400">
-<img src="/Screenshot_1670806680.png" width="400">
-<img src="/Screenshot_1670806824.png" width="400">
+<img src="/Screenshot_1677873829.png" width="400">
+<img src="/Screenshot_1677873836.png" width="400">
+<img src="/Screenshot_1677873838.png" width="400">
+<img src="/Screenshot_1677873845.png" width="400">
+<img src="/Screenshot_1677873849.png" width="400">
+<img src="/Screenshot_1677873824.png" width="400">
+<img src="/Screenshot_1677873824.png" width="400">
+<img src="/Screenshot_1677873921.png" width="400">
+<img src="/Screenshot_1677873932.png" width="400">
 
